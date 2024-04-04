@@ -1,0 +1,1001 @@
+state,city,avg_process_date
+IL,Sycamore,1079
+WV,Sissonville,1053
+MN,"Shareview ",803
+MN,"St. Louis Park ",797
+CA,Covina,778
+IL,Napperville,666
+CA,Sanfrancisco,666
+NY,"Carle Place",624
+NC,"E. Charlotte",602
+NY,Olean,587
+WI,Baraboo,566
+LA,"New Orleans ",536
+IA,"Urbandale ",505
+CT,"East Hartford ",498
+CA,Merced,473
+LA,Lafayette,469
+WV,Ranson,462
+CA,Sunnyvaale,456
+OH,"Brook Park",450
+NJ,"East Brunswick ",432
+WA,Bellvue,430
+MA,Norton,416
+CA,"#41740 San Diego Ca Msa",408
+MN,"Eden Praire",398
+LA,Lafayete,398
+OR,"Suite# 204",391
+PA,Swiftware,386
+NJ,"Mt Laurel",385
+PA,"Castle Shannon",361
+NJ,"Hackensack ",357
+OH,"Blue Ash ",339
+FL,"Bonita Springs",326
+VA,"Mc Lean ",287
+MN,Anoka,283
+CT,"Shelton ",283
+OR,"Salem ",279
+MI,"#19820 Detroit Msa",267
+WV,"Charles Town",240
+NC,"Black Mountain",238
+KY,Lexngton,237
+FL,"South Miami",235
+IL,Savoy,231
+NY,"Port Washington",230
+NJ,Holmdel,215
+OR,"Hillsboro ",210
+VA,Arlington,208
+SC,"Rock Hill",207
+NJ,"Buena Vista",205
+TX,"Fort Worth ",204
+TX,"Grapevine ",203
+MN,"St Louis Park",196
+UT,Lindon,193
+AL,"Birmingham ",189
+CT,Wallingford,181
+MI,Melvindale,179
+MN,Wayzata,176
+PA,Broomall,175
+IL,Schaumnburg,165
+PA,Pittsbburgh,162
+PA,Yardley,158
+MA,"Fall River",156
+IL,Schaumbrug,154
+IL,"Des Plaines ",144
+NJ,"Morris Town",143
+IL,Schuamburg,141
+MI,"Dimondale ",140
+MO,"St Louis ",139
+NJ,"Franklin Lakes ",137
+NJ,"Ridgefield Park",136
+CT,Greenwich,131
+CA,"41740 San Diego Ca Msa",129
+MN,"Eden Prairie ",128
+CT,Plainville,126
+NJ,Pinebrook,122
+IL,Mossville,122
+WA,Tacoma,121
+CA,"Brea ",121
+MA,Chelsea,120
+CA,"Torrance ",118
+PA,Moon,117
+CT,Waterbury,110
+CT,Shelton,110
+PA,Wilkes-Barre,108
+NY,"Spring Valley",107
+MI,Waterford,107
+MI,"Allen Park",106
+IL,"Hoffman Estates ",105
+IA,"Charles City",105
+IL,Schaumburg,104
+RI,"Smithfield,",103
+FL,"Saint Augustine",102
+MD,"Baltimore ",97
+IL,Chatham,96
+PA,Warminster,94
+OH,"Liberty Township",91
+MA,Carlisle,91
+MA,"Boston ",91
+CO,Superior,90
+NJ,"Middletown Township",89
+CA,"Oak Park",89
+MI,"East Lansing",89
+CT,"New Haven",89
+CT,"West Hartford",87
+IL,Belleville,85
+OH,Hilliard,82
+MD,"Lutherville Timonium",82
+CA,Vista,78
+SC,Spartanburg,77
+MI,"# 19820 Detroit Msa",76
+RI,Cranston,75
+MI,"West Bloomfield",74
+MI,Dearborn,74
+PA,Levittown,72
+NJ,Fords,71
+MI,"Auburn Hills",71
+OH,"Mason ",70
+FL,"St Augustine",70
+NY,"East Greenbush",69
+MO,St.Louis,69
+NJ,"Parsippany, ",67
+CA,Goleta,67
+RI,"Smithfield ",66
+MI,Taylor,66
+FL,Medley,66
+NE,Lincoln,64
+MN,"Plymouth ",64
+IL,"Northbrook ",64
+GA,"Atlanta,",64
+NY,Buffalo,63
+FL,"Spring Hill",63
+OH,"New Albany",62
+NJ,"Ewing Township",62
+VA,Elkton,61
+TX,"El Paso",59
+PA,Colmar,59
+WI,Hudson,58
+CA,Agoura,58
+MD,Clarksburg,58
+UT,Provo,57
+MA,Andover,57
+OR,"Portland ",55
+TX,Justin,54
+MN,Edina,54
+IL,Westmont,54
+NJ,Ewing,53
+NH,Portsmouth,53
+MA,Devens,53
+HI,Honolulu,53
+IL,Scahumburg,52
+IL,"Hoffman Estates",51
+OH,Gahanna,50
+UT,"American Fork",49
+OH,"Plain City",48
+SC,"Greenville ",47
+AZ,"Scottsdale ",46
+MI,"Ann Arbor",46
+DC,"Washington D.C.",46
+OH,"North Royalton",45
+CA,Downey,45
+FL,Tallahassee,45
+CT,Norwalk,45
+TX,Grapevine,44
+TN,"Brentwood,",44
+OR,"North Plains",44
+OH,Worthington,44
+OH,Powell,44
+NY,Brooklyn,44
+NH,Merrimack,44
+MO,"Lake St.Louis",44
+MI,"Livonia ",44
+FL,Doral,44
+PA,Swiftwater,43
+PA,"Malvern ",43
+PA,Easton,43
+CA,Cupertino,43
+IN,Columbus,43
+IL,"Lake Zurich",43
+TX,"Justin ",42
+MA,Acton,42
+IL,Glenview,42
+AL,Huntsville,41
+CA,Hercules,41
+NJ,"Lawrence Township",41
+MI,Grandrapids,41
+MD,"National Harbor",41
+AZ,Tucson,40
+OH,"Cincinnati ",40
+NY,"East Syracuse",40
+NY,"Melville ",39
+FL,"Miami Lakes, Miami",39
+WV,Martinsburg,38
+RI,"Providence ",38
+NY,Watertown,38
+NH,Keene,37
+MI,Detroit,37
+FL,"Miami Lakes",37
+CA,"Elk Grove",36
+CA,"Santa Barbara",36
+DE,Claymont,36
+NJ,"Piscataway Township",35
+MI,Canton,35
+MI,"Bloomfield Hills",35
+MA,Norwood,35
+CA,"Sacramento ",35
+VA,"Reston ",34
+TX,"Fort Worth",34
+OR,Hillsboro,34
+NY,Latham,34
+CA,Gardena,34
+MI,"Benton Harbor",34
+IL,Decatur,34
+CA,Torrance,34
+NJ,"Old Bridge",33
+MI,Livonia,33
+MA,Bedford,33
+KY,Frankfort,33
+IL,"Naperville ",33
+CA,Sunnyvale,33
+WI,"Menomonee Falls",32
+AZ,"Phoenix ",32
+NJ,Moorestown,32
+NJ,Mahwah,32
+MO,"St. Charles",32
+PA,Devon,31
+MI,Hamtramck,31
+IL,Naperville,31
+IL,"Mount Prospect",31
+TX,"San Antonio ",30
+NJ,"North Brunswick Township",30
+NC,"Morrisville ",30
+MN,Shakopee,30
+CA,Tulare,30
+WI,"Madison ",29
+NJ,Secaucus,29
+MA,Lexington,29
+FL,Clearwater,29
+AL,Birmingham,28
+CA,"Los Gatos",28
+MI,Pontiac,28
+MD,"Ellicott City",28
+MA,Westford,28
+IL,Bolingbrook,28
+VA,"North Chesterfield",27
+NY,Niskayuna,27
+NJ,Edgewater,27
+MN,Plymouth,27
+MI,"Ann Arbor ",27
+MD,"Chevy Chase",27
+MA,Northborough,27
+CO,"Colorado Springs",27
+OR,Beaverton,26
+NJ,Rahway,26
+NC,"High Point",26
+MA,Lowell,26
+IL,Rosemont,26
+VA,Chester,25
+TX,Stafford,25
+PA,"North Wales",25
+NJ,"South Amboy",25
+CA,Petaluma,25
+CA,"San Francisco",25
+WI,Greenfield,24
+WI,"Green Bay",24
+VA,Verona,24
+PA,Philadelphia,24
+NJ,"East Hanover",24
+NJ,Bedminster,24
+MO,Sikeston,24
+MD,"Columbia ",24
+MD,Baltimore,24
+CA,"South San Francisco",24
+CT,Stamford,24
+WA,Vancouver,23
+CA,Cerritos,23
+NJ,"Princeton Junction",23
+MO,"Maryland Heights",23
+MD,Frederick,23
+MA,Waltham,23
+IL," Chicago,",23
+FL,"Palm Beach Gardens",23
+TN,Memphis,22
+OR,"Lake Oswego",22
+OH,Dublin,22
+OH,"Columbus ",22
+MA,Burlington,22
+IN,Fishers,22
+CA,Tustin,22
+DC,Washington,22
+SC,"Indian Land",21
+PA,Harrisburg,21
+OH,"Blue Ash",21
+NJ,Warren,21
+NJ,Summit,21
+NC,Mooresville,21
+MS,Jackson,21
+MN,Hopkins,21
+IL,Moline,21
+CT,Meriden,21
+AL,"Montgomery ",20
+TX,Fortworth,20
+RI,Smithfield,20
+NJ,Nutley,20
+MN,Woodbury,20
+MN,Roseville,20
+MN,Minneapolis,20
+MD,"Windsor Mill",20
+CA,"Rancho Cordova",20
+MD,Hanover,20
+CA,Rocklin,20
+MA,Boston,20
+IL,Bloomingdale,20
+FL,"Boca Raton",20
+CA,Valencia,20
+PA,Secane,19
+PA,Downingtown,19
+PA,Coraopolis,19
+NJ,Somerset,19
+NE,Omaha,19
+MO,"Welden Spring",19
+MO,Chesterfield,19
+MA,Cambridge,19
+LA,Monroe,19
+IL,Lisle,19
+IA,Muscatine,19
+IA,"Des Moines",19
+GA,Norcross,19
+GA,"Alpharetta ",19
+WI,Madison,18
+VA,"Richmond ",18
+UT,Lehi,18
+TX,"Missouri City",18
+PA,Malvern,18
+PA,Chesterbrook,18
+OH,Cincinnati,18
+CA,Glendale,18
+NJ,Hackensack,18
+NH,Somersworth,18
+MI,Southfield,18
+IL,"Rosemont ",18
+IL,"Oak Brook",18
+FL,Jacksonville,18
+WA,"Seattle ",17
+UT,Murray,17
+TX,"Plano ",17
+AZ,Scottsdale,17
+TX,Celina,17
+RI,Woonsocket,17
+PA,Bloomsburg,17
+PA,Allentown ,17
+OK,"Oklahoma City",17
+OH,Mason,17
+OH,Cleveland,17
+OH,Brooklyn,17
+NY,"White Plains",17
+NY,Jericho,17
+NM,Albuquerque,17
+NJ,"Mount Laurel",17
+CA,Livermore,17
+MO,"St. Louis",17
+CA,Milpitas,17
+MO,"Kansas City",17
+MO,"Jefferson City",17
+CA,Pleasanton,17
+MD,Rockville,17
+MD,Linthicum,17
+MA,Springfield,17
+MA,Quincy,17
+MA,"Lexington ",17
+CA,Sacramento,17
+KY,Louisville,17
+IL,"Vernon Hills",17
+IL,"Rolling Meadows",17
+GA,Suwanee,17
+DE,Dover,17
+AL,Hoover,16
+VA,Reston,16
+VA,"Glen Allen",16
+SC,Greenville,16
+CA,"Aliso Viejo",16
+PA,"West Chester",16
+PA,Pittsburgh,16
+CA,Brea,16
+OR,Portland,16
+OH,Miamisburg,16
+NY,Melville,16
+MN,"St. Paul",16
+MI,Warren,16
+MA,Raynham,16
+CA,"San Jose",16
+IL,Palatine,16
+IA,Johnston,16
+FL,Orlando,16
+WI,"De Pere",15
+WA,Renton,15
+WA,Issaquah,15
+WA,Bellevue,15
+TX,"Houston ",15
+TN,Franklin,15
+PA,Pittsbught,15
+OH,"Mayfield Village",15
+NY,Schenectady,15
+CA,"El Segundo",15
+NY,Albany,15
+NJ,Somerville,15
+NJ,Piscataway,15
+NJ,Middletown,15
+NJ,Harrisonarrison,15
+NJ,"Florham Park",15
+NC,Winston-Salem,15
+NC,Durham,15
+NC,"Charlotte ",15
+MN,Rochester,15
+MN,Eagan,15
+MI,"Rochester Hills",15
+MI,"Farmington Hills",15
+MI,Farmington,15
+MD,Columbia,15
+IN,Warsaw,15
+IN,Lafayette,15
+CA,"San Mateo",15
+CA,"San Ramon",15
+GA,"Peachtree Corners",15
+DC,"Washington Dc ",15
+CT,Glastonbury,15
+CO,"Greenwood Village",15
+AL,Montgomery,14
+WA,Seattle,14
+WA,Redmond,14
+AR,Bentonville,14
+VA,Richmond,14
+VA,Ashburn,14
+AZ,"Chandler ",14
+TX,"San Antonio",14
+TX,"Pkwy Plano",14
+TX,Freeport,14
+TN,Brentwood,14
+PA,Oakdale,14
+PA,"Moon Township",14
+PA,Exton,14
+PA,Collegeville,14
+NJ,"West New York",14
+NJ,Lebanon,14
+NC,Morrisvillw,14
+NC,Charlotte,14
+NC,Apex,14
+MN,"Eden Prairie",14
+MI,Troy,14
+MI,Novi,14
+MI,"Farmington ",14
+MD,Waldorf,14
+MD,"Linthicum Heights",14
+MD,Halethorpe,14
+CA,"San Diego",14
+IN,Indianapolis,14
+IL,"Park Ridge ",14
+CT,Bristol,14
+WA,Bothell,13
+VA,Norfolk,13
+VA,Herndon,13
+VA,"Falls Church",13
+TX,Richardson,13
+TX,Katy,13
+TX,"College Station",13
+SC,"Fort Mill",13
+PA,Horsham,13
+OH,Toledo,13
+NY,"New York City",13
+NY,"New York ",13
+NY,"New York",13
+NJ,Hoboken,13
+NJ,"Basking Ridge",13
+NC,Belmont,13
+MN,"St. Louis Park",13
+MI,"Grand Rapids",13
+MI,"Benton Harbor ",13
+MA,"North Grafton",13
+MA,Citypoint,13
+IL,Peoria,13
+CA,"Santa Clara",13
+IL,Chicago,13
+IL,Bloomington,13
+IA,"Forest City",13
+GA,Smyrna,13
+GA,"Atlanta ",13
+FL,Riverview,13
+FL,Petersburg,13
+FL,Miami,13
+FL,"Boca Raton ",13
+AK,Juneau,12
+VA,Vienna,12
+VA,Mclean,12
+VA,Manassas,12
+VA,Chantilly,12
+AZ,Arizona,12
+TX,Lewisville,12
+TX,Irving,12
+TX,Houston,12
+TX,Coppell,12
+TN,Nashville,12
+TN,Collierville,12
+PA,"West Point",12
+NY,Guilderland,12
+NV,"Las Vegas",12
+NJ,Parsippany,12
+NJ,"Morris Plains",12
+CA,Irvine,12
+NJ,Bridgewater,12
+MO,"Saint Joseph",12
+MO,Berkeley,12
+MN,Minnetonka,12
+MA,Roxbury,12
+MA,Marlborough,12
+CA,"San Bruno",12
+KY,Georgetown,12
+CA,"San Francisco ",12
+IL,Grayslake,12
+IL,"East Peoria",12
+GA,Atlanta,12
+FL,"West Palm Beach",12
+FL,"Temple Terrace",12
+FL,Kissimmee,12
+CA,Tracy,12
+CT,"Milford ",12
+CO,"Colorado, ",12
+CA,"Woodland Hills",12
+MO,"St Louis",11
+WI,Waukesha,11
+TX,"West Lake",11
+TX,Plano,11
+TX,Fulshear,11
+TX,Frisco,11
+TX,Dallas,11
+TX,Carrollton,11
+TX,Beaumont,11
+TX,Austin,11
+TX,Allen,11
+TN,Chattanooga,11
+TN,Arlington,11
+PA,Nazareth,11
+PA,"King Of Prussia",11
+PA,"Blue Bell",11
+OR,Wilsonville,11
+NJ,Whippany,11
+NJ,"Short Hills",11
+NJ,Raritan,11
+NJ,Princeton,11
+NJ,"Englewood Cliffs",11
+NJ,"East Brunswick",11
+NC,Raleigh,11
+NC,Concord,11
+NC,Cary,11
+MO,"Saint Louis",11
+MO,O'Fallon,11
+MO,"Creve Coeur",11
+MI,"West Bloomfield Township",11
+MI,Portage,11
+MI,Northville,11
+MA,Framingham,11
+IL,"East Moline",11
+IL,Deerfield,11
+GA,Alpharetta,11
+FL,"Deerfield Beach",11
+DE,Newark,11
+CO,Loveland,11
+CO,Denver,11
+CO,Centennial,11
+CA,"Westlake Village",11
+AZ,Chandler,11
+AZ,Phoenix,11
+CA,"Rio Vista",11
+CA,Lathrop,11
+CA,"La Mesa",11
+AZ,Tempe,11
+CA,"Mountain View",11
+CA,"Sunnyvale ",11
+CA,"Cupertino ",11
+CA,"Parsons West,",10
+NJ,"North Brunswick",10
+MI,"Benton Harbor, ",10
+NY,Islanda,10
+CO,"Denver City",10
+NC,Winston,10
+CO,Englewood,10
+PA,Dresher,10
+CO,Englewoodê,10
+IA,"West Des Moines",10
+AZ,Chandlerê,10
+ME,Scarborough,10
+ME,Lewiston,10
+CA,Porterville,10
+CO,"Lone Tree",10
+MD,"Windsor Mil",10
+CA,"Los Angeles",10
+NC,"Winston-Salem ",10
+TX,Spring,10
+MD,"Owings Mills",10
+TX,"Little Elm",10
+OK,"Norman ",10
+IL,"Buffalo Grove",10
+TX,"Leander,  ",10
+TX,"Suite 201",10
+TX,"Leander,",10
+MI,Romulus,10
+NC,Huntersvilleê,10
+GA,Marietta,10
+CT,Hartfordê,10
+MI,"Southfield,",10
+CA,Fremont,10
+MD," Owings Mills, ",10
+NJ,"Red Bank",10
+TX,Westlake,10
+NY,"Ozone Park",10
+GA,Cumming,10
+MA,Walthamê,10
+CT,Vernon,10
+MN," Eagan, ",10
+NY,Peekskill,10
+NJ,"131 Morristown Rd,",10
+WA,Sequim,10
+CT,Windsor,10
+WA,"Sea Tac",10
+DC,"Nw Washington",10
+NJ,"Apt 411",10
+WA,"Redmond ",10
+NJ,"Jersey City",10
+IL,Missouri,10
+NJ,Jamesburg,10
+MA,"North Attleborough",10
+CA,"San Mateo ",10
+NJ,Hillsboroughê,10
+NJ,Hightstown,10
+NY,Binghamton,10
+MN,"Inver Grove Heights",10
+NJ,"Berkeley Heights",10
+FL,"Boynton Beach",10
+RI,"North Smithfield",10
+CA,"Menlo Park",10
+NY,Vestal,10
+SC,"Fort Mills",10
+NJ,Glassboro,10
+NJ,"Trenton,",10
+VT,"Essex Junction",10
+CA,"Costa Mesa ",10
+NJ,Voorhees,10
+VA,"Virginia Beach",10
+CA,"Menlo Park,",10
+FL,"Lake Mary",10
+OH,"Lewis Center",10
+CA,"San Francisco, ",10
+VA,Sterling,10
+VA,"Ste. 105/5",10
+CA,"Mountain House",10
+IL,Waukegan,10
+OH,"Grove City",10
+MN,"Woodbury,",10
+NJ,Clifton,10
+MO,"Ellisville ",10
+TX,"Apt # 2002",10
+MO,"Jefferson City ",10
+TX,Addison,10
+NJ,"East Windsor",10
+MO,"Lake St Louis",10
+OH,"Clearcreek Township",10
+TN,"Suite 260",10
+NJ,"Woobridge ",10
+VA,Loudoun,10
+NJ,Dayton,10
+NJ,Woodbridge,10
+PA,Canonsburg,9
+MI,Flint,9
+MI,"Comstock Park",9
+MI,"Bingham Farms ",9
+TX,"Point Comfort ",9
+WI,Wi,9
+WI,"Whitefish Bay",9
+CA,"Canoga Park",9
+GA,"West Point ",9
+NY,"Ithaca ",9
+PA,Dunmore,9
+NJ,"Mt. Laurel",9
+TX,Scottsville,9
+TX,Seguin,9
+GA,"Smyrna ",9
+NC,Morrisville,9
+TX,Mickinney,9
+MD,"Perry Hall",9
+IL,Aurora,9
+MD,"Owings Mills,",9
+TX,Lubbock,9
+OK,"Broken Arrow",9
+NJ,"Monroe Township",9
+CA,Burbank,9
+IL,"Chicago ",9
+CT,Ellington,9
+PA,Mcdonald,9
+IL,Chillicothe,9
+CT,Hartford,9
+NJ,Plainsboro,9
+IL,"Dallas City",9
+CA,Oakland,9
+PA,N/A,9
+TX,"Irving,",9
+PA,"Newtown Square",9
+TX,Tx,9
+MD,Bethesda,9
+TX,"Irving ",9
+NJ,"Raritan Somerset",9
+IL,"Forest Park",9
+CA,Northridge,9
+IL,Gurnee,9
+NH,"West Lebanon",9
+NY,Plainview,9
+CT,"Wilton,",9
+GA,Augusta,9
+NJ,"Kendall Park",9
+CA,"Foster City",9
+AZ,"Casa Grande ",9
+MA,Pembroke,9
+TX,Frsicco,9
+IL,"Mettawa ",9
+DE,"New Castle",9
+UT,Ogden,9
+DE,Wilmington,9
+NY,"Buffalo ",9
+CA,Encinitas,9
+NJ,"South Brunswick Township",9
+UT,"Salt Lake City",9
+TX,"Flower Mound",9
+MN,"Lake Elmo",9
+IL,"North Chicago",9
+OH,"New Philadelphia",9
+MA,Holyoke,9
+TX,"Farmers Branch,",9
+UT,"West Jordan",9
+NJ,Boonton,9
+NJ,Bordentown,9
+NJ,"Hamilton ",9
+NJ,Hamilton,9
+AZ,"Scottsdale, ",9
+VA,Aldie,9
+MA,Fairhaven,9
+FL,"Daytona Beach ",9
+IL,Rockford,9
+FL,Tampa,9
+MN,"New Hope",9
+FL,Gainesville,9
+NJ,Township,9
+CA,"Menlo Park ",9
+FL,Jackosnville,9
+MN,Richfield,9
+FL,"Juno Beach",9
+TX,"Celina,",9
+TX,"Cedar Park",9
+TX,"Bay City",9
+TX,Autin,9
+IN,Angola,9
+OH,Green,9
+IN,"Fort Wayne",9
+OH,Cincinatti,9
+KY,Erlanger,9
+NJ,Edison,9
+KS,"Overland Park",9
+FL,"North Palm Beach",9
+FL,Perersdurg,9
+FL,"Pembroke Pines",9
+VA,Henrico,9
+CA,Cypress,9
+IN,Noblesville,9
+OH,"Cleveland ",9
+IA,"Cedar Rapis",8
+CA,"West Sacramento ",8
+IA,Clive,8
+NC,"Sanford ",8
+NY,Henrietta,8
+TX,Ricardson,8
+NC,Salisbury,8
+NY,Hicksville,8
+NC,"Rocky Mount",8
+IA,"Des Moines, ",8
+IA,Desmoines,8
+NY,Highland,8
+TX,"Port Arthur",8
+NC,"Research Triangle Park",8
+IA,"Iowa City",8
+IA,Johnson,8
+CA,"Scotts Valley",8
+NC,"Research Triangle ",8
+IA,Ottumwa,8
+IA,"Spirit Lake",8
+NY,Lockport,8
+IA,"West Des Moines ",8
+IA,"West Desmoines ",8
+NY,"Long Island City",8
+NC,"Mt. Airy",8
+TX,Northlake,8
+ID,Meridian,8
+TX,"North Rrichland Hills",8
+TX,"North Houston",8
+AZ,Laveen,8
+NC,Morisvlille,8
+IL,"Arlington Height",8
+IL,"Arlington Heights",8
+NC,Mooriesvill,8
+IL,Auroraê,8
+TX,Mckinney,8
+NC,"Mint Hill",8
+IL,Bensenville,8
+NC,Maxton,8
+TX,"Little Elm ",8
+TX,"Liberty Hills",8
+IL,"Burr Ridge",8
+TX,"Leander ",8
+IL,"Charles ",8
+CA,"Santa Fe Springs",8
+NC,Hunterville,8
+NC,"Huntersville ",8
+IL,"Chicago, ",8
+NC,Huntersville,8
+NC,"Holly Springs",8
+TX,Kingsville,8
+CA,"Santa Clarita",8
+IL,"Deer Park",8
+NY,"New York,",8
+IL,"Deerfield,",8
+CA,"Los Angeles, Ca",8
+NY,"New Yorkê",8
+NC,"Greensboro	",8
+NC,Greensboro,8
+IL,"Downers Grove",8
+IL,Dupage,8
+CA,"Santa Clara,",8
+IL,"East Peoria ",8
+NC,Fletcher,8
+IL,Evanston,8
+TX,Huston,8
+NC,Durhum,8
+IL,Grnee,8
+TX,"Houston,",8
+IL,"Hanover Park",8
+TX,"Houston  ",8
+IL,"Hg Northbrook",8
+IL,Hines,8
+CA,Eastvale,8
+IL,Homewood,8
+IL,"Illinois ",8
+NC,Cornelius,8
+TX,"Grapevine, ",8
+IL,Lincolnshire,8
+NC,Chrlotte,8
+IL,Lincolnwood,8
+NC,Charotte,8
+IL,"Lisle ",8
+IL,Lombard,8
+IL,"Lombard ",8
+TX,"Gainesville ",8
+NC,Charlotteê,8
+NC,"Charlotte,",8
+NC,"Charlotte L",8
+AZ,"Phoenix, ",8
+IL,"Morton Grove",8
+IL,"Mossville Off Ac-Il-Us Chillicothe",8
+AZ,"Queen Creek",8
+TX,"Forth Worth",8
+NC,Carry,8
+NC,"Car ",8
+CA,"San Pedro",8
+NC,Burlington,8
+CA,"San Marcos ",8
+IL,Niles,8
+NY,"Rensselaer ",8
+TX,Flushear,8
+NY,"Retrieving Data. Wait A Few Seconds",8
+CA,Mather,8
+NY,"Roslyn Heights",8
+TX,"Farmer'S Branch ",8
+CA,Menifee,8
+IL,Oswego,8
+NY,"Sleepy Hollow",8
+NY,"South Rochester",8
+NY,"Staten Island",8
+TX,"Denton ",8
+TX,Denton,8
+TX,"Dallas, ",8
+IL,Riverwoods,8
+IL,"Riverwoods ",8
+IL,"Rolling Meadow",8
+CA,"San Juan Capistrano",8
+IL,Roselle,8
+TX,"Corpus Christi",8
+MS,Belden,8
+NY,"Victor ",8
+TX,"Coppell,",8
+CA,"San Jose,",8
+CA,"Downey ",8
+MO,"Sunset Hills",8
+TX,Center,8
+IL,"Schaumburg, Il, ",8
+TX,"Cedar Park ",8
+IL,Silvis,8
+MO,"St. Lious",8
+TX,Carrollton ,8
+NY,Williamsville,8
+TX,"Caddo Mills",8
+NY,Windham,8
+TX,Brownsville,8
+MO,"St Charles",8
+IL,"West Madison",8
+TX,"Beaumont ",8
+OH,Anna,8
+TX,"Baytown ",8
+IL,Wheeling,8
+IL,"Willis Tower",8
+IN,"Columbia City",8
+TX,Argyle ,8
+TX,Argley,8
+IN,"Fishers ",8
+IN,Fortville,8
+MO,"O' Fallon",8
+IN,Greenwood,8
+TX,Amarillo,8
+MO,"North Kansas City",8
+IN,Jasper,8
+MO,Maryville,8
+TX,"524, Old Ocean",8
+MO,"Maryland Heights, ",8
+IN,Mishawaka,8
+PA,Lemoyne,8
+MA,"Somerville ",8
+OH,"South Lebanon",8
+PA,"Scranton ",8
+MA,"Stoughton ",8
+OH,Strongsville,8
+MA,Tewksbury,8
+MA,Upton,8
+PA,Royersford,8
+MI,"Ypsilanti ",8
+MI,Ypsilanti,8
+PA,Pottstown,8
+PA,Poali,8
+MA,Wayland,8
+OH,Swanton,8
+MA,Wellesley,8
+MA,"West Borough",8
+MA,"West Newton ",8
+MI,Wixom,8
+CA,"Norco ",8
+PA,Pittsburg,8
+MA,"Westford ",8
+CA,Atwater,8
+MA,Westwood,8
+PA,"Philadelphia,",8
+MI,Walker,8
+MI,"Van Buren Township",8
+MI,Troyê,8
+OH,"West Carrollton",8
+CA,"Baldwin Park",8
+CA,Novato,8
+MI,Stevensville,8
+OH,Westerville,8
+PA,Newtown,8
+MD,Burtonsville,8
+MI,"Sterling Heights",8
+PA,"Newton Square",8
+PA,"New Kensington",8
+PA,Myerstown,8
+MI,"St Joseph",8
+PA,"Moon Twp.",8
+PA,"Moon Township ",8
+MD,Eldersburg,8
+MI,"South Lyon",8
+MI,"South Gate",8
+PA,Mechaniscsburg,8
+PA,"Mechanicsburg ",8
+PA,"Meadville ",8
+MD,Gaithersburg,8
+PA,"Mckees Rocks",8
+MD,"Gaithersburg, ",8
+MD,Germantown,8
+PA,Mcconnellsburg,8
+MI,Saline,8
+PA,Mars,8
+MI,"Royal Oak",8
+CA,"Burbank ",8
+MD,Hanover ,8
+OK,"Bartlesville ",8
+CA,Oceanside,8
+MD,Lanham,8
+PA,Douglassville,8
+MI,"Auburn Hills ",8
+PA,"Collegeville ",8
+CA,"Campbell ",8
+PA,Allentown,8
+CA,"Palo Alto",8
+MI,"Allen Park ",8
+CA,Pleasantonê,8
+ME,Shapleigh,8
+PA,"East Stroudsburg",8
+PA,"East Norriton",8
+PA,"East Greenville",8
+OR,Tigard,8

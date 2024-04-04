@@ -1,0 +1,57 @@
+# We created views to help us visualize all the data we have better - based on common questions students would have regarding visas
+#VIEW query for understanding the average process date base on location (city and state)
+CREATE VIEW location_process_dates AS
+
+SELECT w.state, w.city, ROUND(AVG(ABS(DATEDIFF(v.received_date, v.decision_date)))) AS avg_process_date
+FROM hlb.visa AS v
+INNER JOIN worksite AS w ON v.worksite_id = w.worksite_id
+GROUP BY w.state, w.city;
+
+# VIEW query to see what is the most popular industry for each state in America
+CREATE VIEW best_industry_location AS
+WITH IndustryRanking AS (
+    SELECT 
+        n.industry AS industry_name, 
+        w.state, 
+        COUNT(*) AS industry_count,
+        ROW_NUMBER() OVER (PARTITION BY w.state ORDER BY COUNT(*) DESC) AS rank_within_state
+    FROM hlb.visa AS v
+    INNER JOIN naics AS n ON v.naics_id = n.naics_id
+    INNER JOIN worksite AS w ON v.worksite_id = w.worksite_id
+    GROUP BY n.industry, w.state
+)
+SELECT industry_name, state, industry_count
+FROM IndustryRanking
+WHERE rank_within_state = 1;
+
+# VIEW for amount of continued employment for top industries in each state
+CREATE VIEW industry_ce AS
+WITH IndustryRanking AS (
+    SELECT 
+        n.industry AS industry_name, 
+        w.state, 
+        SUM(v.continued_employment) AS total_continued_employment,
+        RANK() OVER (PARTITION BY w.state ORDER BY SUM(v.continued_employment) DESC) AS rank_within_state
+    FROM hlb.visa AS v
+    INNER JOIN naics AS n ON v.naics_id = n.naics_id
+    INNER JOIN worksite AS w ON v.worksite_id = w.worksite_id
+    GROUP BY n.industry, w.state
+)
+SELECT industry_name, state, total_continued_employment
+FROM IndustryRanking
+ORDER BY industry_name, rank_within_state;
+
+#VIEW to show how many continued employment occured for each industry in america within the data
+WITH IndustryRanking AS (
+    SELECT 
+        n.industry AS industry_name, 
+        SUM(v.continued_employment) AS total_continued_employment,
+        RANK() OVER (ORDER BY SUM(v.continued_employment) DESC) AS rank_across_all_cities
+    FROM hlb.visa AS v
+    INNER JOIN naics AS n ON v.naics_id = n.naics_id
+    INNER JOIN worksite AS w ON v.worksite_id = w.worksite_id
+    GROUP BY n.industry
+)
+SELECT industry_name, total_continued_employment
+FROM IndustryRanking;
+
